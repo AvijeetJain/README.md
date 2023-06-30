@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently develop websites
  
-- 🔥 I'm also enhancing myself in the field of Graphic designing
+- 🔥 I'm also enhancing myself in the field of Machine Learning
 
 - 📫 Reach out to me at my **<a href="mailto:jainavijeet@gmail.com">Email</a>**
  
-- 🧑 More of me at my **[Portfolio Website](https://aviiii.me)**
+- 🧑 Get to know me better at my **[Portfolio Website](https://aviiii.me)**
  
 ## ⌨ Languages and Tools:
 
