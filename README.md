@@ -76,7 +76,7 @@
     <img src="https://img.icons8.com/?size=1x&id=pwQ5RLL0yJgu&format=png" height=50 width=50/>
   </a>
   <a href = "https://aviiii.me">
-    <img src="https://user-images.githubusercontent.com/99802392/250142778-94e71cf1-8b7e-49bf-afc1-ff432b4625db.png" height=45 width=45/>
+    <img src="https://user-images.githubusercontent.com/99802392/250142778-94e71cf1-8b7e-49bf-afc1-ff432b4625db.png" height=40 width=40/>
   </a>
   <a href = "https://www.linkedin.com/in/avijeet-jain-476712233/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
