@@ -1,5 +1,5 @@
 
-<div align="center" ><img src="https://i.imgur.com/8EErDv2.png" height="400px" width="400px" /></div>
+<div align="center" ><img src="https://i.imgur.com/8EErDv2.png" height=auto width="400px" /></div>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">Hey there, I'm Avijeet Jain!
 <h3 align="center">I'm a MERN Stack Developer and a passionate Graphic Designer.</h3>
