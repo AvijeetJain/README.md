@@ -29,9 +29,11 @@
    <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width=60 height=60></img>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/material-ui.png" width=60 height=60></img>
+   <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/nodejs.png" width=60 height=60></img>
+   <img src="https://www.emailjs.com/logo.png" width=50 height=50></img>
    <img src="https://camo.githubusercontent.com/6686b9ef0e21e13c9e7c846340303765c0f36e40a0490bcad453ea9d0d433ea0/68747470733a2f2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67" width=60 height=60></img>
-   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width=60 height=60></img>
+   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width=50 height=50></img>
    <img src="https://img.icons8.com/color/24895/npm.png" width=60 height=60></img>
    <img src="https://user-images.githubusercontent.com/99802392/250141005-357f8634-c058-4237-a923-d15b809622c3.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width=60 height=60></img>
