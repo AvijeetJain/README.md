@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently developing websites
  
-- 🔥 I'm also enhancing myself in the field of Machine Learning
+- 🔥 I'm also enhancing myself in the field of DSA
 
 - 📫 Reach out to me at my **<a href="mailto:jainavijeet@gmail.com">Email</a>**
  
