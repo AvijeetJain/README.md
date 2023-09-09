@@ -29,7 +29,7 @@
    <img src="https://img.icons8.com/color/96/000000/html-5.png" width=60 height=60></img>
    <img src="https://img.icons8.com/plasticine/100/000000/react.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width=60 height=60></img>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width=60 height=60></img>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width=60 height=45></img>
    <img src="https://img.icons8.com/color/96/000000/material-ui.png" width=60 height=60></img>
    <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" width=55 height=55></img>
    <img src="https://img.icons8.com/color/96/000000/nodejs.png" width=60 height=60></img>
