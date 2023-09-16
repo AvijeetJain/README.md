@@ -8,7 +8,7 @@
 
  ## 🙋‍♂️ About Meeee
 
-- 🌱 I’m currently developing websites
+- 🌱 I’m currently developing and designing websites
  
 - 🔥 I'm also enhancing myself in the field of DSA
 
