@@ -14,7 +14,7 @@
 
 - 📫 Reach out to me at my **<a href="mailto:jainavijeet@gmail.com">Email</a>**
  
-- 🧑 Get to know me better at my **[Portfolio Website](https://aviiii.me)**
+- 🧑 Get to know me better at my **[Portfolio Website](https://aviiii.me)**. Make sure to check it out.
  
 ## ⌨ Languages and Tools:
 
