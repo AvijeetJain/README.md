@@ -2,9 +2,9 @@
 <div align="center" ><img src="https://i.imgur.com/8EErDv2.png" height=auto width="400px" /></div>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">Hey there, I'm Avijeet Jain!!
-<h3 align="center">I'm a MERN Stack Developer and a passionate Designer.</h3>
-<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="70" />
-
+<h3 align="center">I'm a MERN Stack Developer and a passionate Designer.
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="120" height="auto" align="center" />
+</h3>
 
  ## 🙋‍♂️ About Meeee
 
