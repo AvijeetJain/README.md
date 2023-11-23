@@ -54,7 +54,6 @@
    <img src="https://img.icons8.com/color/baWsXpPZGhGu/filmora.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/UohrMT84a2p9/davinci-resolve.png" width=60 height=60></img>
    <img src="https://img.icons8.com/color/4Wh92E1ydgPn/microsoft-clipchamp.png" width=60 height=60></img>
-   
 </p>
  
 <!-- ## 📊 My Github Stats
