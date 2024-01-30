@@ -89,4 +89,6 @@
     <img src="https://img.icons8.com/?size=512&id=32323&format=png" height=50 width=50/>
   </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avijeetjain&label=Profile%20views&color=0e75b6&style=flat" alt="avijeetjain" /> </p>
  
