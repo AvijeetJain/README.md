@@ -6,6 +6,20 @@
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="120" height="auto" align="center" />
 </h3>
 
+<div align="center">
+   <a href="mailto:jainavijeet@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+   </a>
+   <a href = "https://www.linkedin.com/in/avijeet-jain-476712233/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+   </a>
+   <a href = "https://www.instagram.com/_.aviii_._/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+   </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+</div>
+
+
  ## 🙋‍♂️ About Meeee
 
 - 🌱 I’m currently developing and designing websites
@@ -15,22 +29,6 @@
 - 📫 Reach out to me at my **<a href="mailto:jainavijeet@gmail.com">Email</a>**
  
 - 🧑 Get to know me better at my **[Portfolio Website](https://aviiii.me)**
-
-- Connect with me:
-  <div align="left">
-   <a href="mailto:jainavijeet@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-   </a>
-   <a href = "https://www.linkedin.com/in/avijeet-jain-476712233/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-   </a>
-   <a href = "https://www.instagram.com/_.aviii_._/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
-
  
 ## ⌨ Languages and Tools:
 
@@ -88,11 +86,14 @@
   </a>
 </p>-->
 
-<picture>
+### 🐍 Watch a snake eat all my Contributions
+<div align="center">
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvijeetJain/AvijeetJain/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvijeetJain/AvijeetJain/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AvijeetJain/AvijeetJain/output/github-contribution-grid-snake.svg">
-</picture>
+ </picture>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avijeetjain&label=Profile%20views&color=0e75b6&style=flat" alt="avijeetjain" /> </p>
  
