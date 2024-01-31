@@ -15,6 +15,16 @@
 - 📫 Reach out to me at my **<a href="mailto:jainavijeet@gmail.com">Email</a>**
  
 - 🧑 Get to know me better at my **[Portfolio Website](https://aviiii.me)**
+
+- Connect with me:
+  <div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+
  
 ## ⌨ Languages and Tools:
 
@@ -56,25 +66,7 @@
    <img src="https://img.icons8.com/color/4Wh92E1ydgPn/microsoft-clipchamp.png" width=60 height=60></img>
 </p>
  
-<!-- ## 📊 My Github Stats
- 
-<p align="center">
-    <a href="https://github.com/xdragon2002/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="my streak" src="https://github-readme-streak-stats.herokuapp.com/?user=xdragon2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
- 
-<div align="center">
-
-
-  <br/>
-    <a href="https://github.com/xdragon2002/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=xdragon2002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/xdragon2002/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdragon2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&show_icons=true&hide=jupyter%20notebook,html,css,shell,dockerfile,procfile" /></a>
-  <br/>
-<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
- 
-
-## 🤝 Connect with me:
+<!--## 🤝 Connect with me:
 <p align="center">
   <a href="mailto:jainavijeet@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=1x&id=pwQ5RLL0yJgu&format=png" height=50 width=50/>
@@ -88,7 +80,7 @@
   <a href = "https://www.instagram.com/_.aviii_._/" target="_blank">
     <img src="https://img.icons8.com/?size=512&id=32323&format=png" height=50 width=50/>
   </a>
-</p>
+</p>-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvijeetJain/AvijeetJain/output/github-contribution-grid-snake-dark.svg">
