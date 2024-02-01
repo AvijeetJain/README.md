@@ -86,7 +86,7 @@
   </a>
 </p>-->
 
-### 🐍 Feeding my Pet
+## 🐍 Feeding my Pet
 <div align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvijeetJain/AvijeetJain/output/github-contribution-grid-snake-dark.svg">
