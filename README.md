@@ -2,7 +2,7 @@
 <div align="center" ><img src="https://i.imgur.com/8EErDv2.png" height=auto width="400px" /></div>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">Hey there, I'm Avijeet Jain!!
-<h3 align="center">I'm a MERN Stack Developer and a passionate Designer.
+<h3 align="center">I'm a Software Engineer.
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="120" height="auto" align="center" />
 </h3>
 
@@ -24,13 +24,13 @@
 
  ## 🙋‍♂️ About Meeee
 
-- 🌱 I’m currently developing and designing websites
+- 🌱 I’m currently in my final yeat at IIIT, Gwalior.
  
 - 🔥 I'm also enhancing myself in the field of DSA
 
 - 📫 Reach out to me at my **<a href="mailto:jainavijeet@gmail.com">Email</a>**
  
-- 🧑 Get to know me better at my **[Portfolio Website](https://portfolio-website-isgr.vercel.app/)**
+- 🧑 Get to know me better at my **[Portfolio Website](https://aviii.tech/)**
  
 ## ⌨ Languages and Tools:
 
