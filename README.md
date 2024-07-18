@@ -1,5 +1,5 @@
 
-<div align="center" ><img src="https://i.imgur.com/8EErDv2.png" height=auto width="400px" /></div>
+<div align="center" ><img src="https://i.imgur.com/8EErDv2.png" height=auto width="350px" /></div>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">Hey there, I'm Avijeet Jain!!
 <h3 align="center">I'm a Software Engineer, a Developer and a Designer.
